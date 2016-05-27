@@ -29,3 +29,5 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * S04 L094 - Intro & Section Notes
 * S04 L095 - Game Design Document
 * S04 L096 - Setting Up a GitHub "Repo"
+* S04 L097 Creating & Deleting Landscapes
+
