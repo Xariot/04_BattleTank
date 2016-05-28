@@ -1,4 +1,6 @@
+# Personal Changes
 *.VC.db
+Content/StarterContent/*
 
 # Compiled Object files
 *.slo
